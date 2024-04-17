@@ -12,7 +12,7 @@ The task is a classic example of [sleeping barber problem](https://en.wikipedia.
 #### The barber goes through the loop:
 1. select a client from the waiting room (or sleep if he is not there yet)
 2. find a free chair
-3. collect a fee for the service and places it in a common cash register
+3. collect a fee for the service and place it in a common cash register
 4. provide the service
 5. free the chair
 6. calculate the change and take it from the common cash register, and if this is not possible, wait until the appropriate denominations appear as a result of the work of another barber,
@@ -25,7 +25,7 @@ The task is a classic example of [sleeping barber problem](https://en.wikipedia.
 4. after finding a barber, pay for the haircut
 5. wait until the service is done
 6. wait for the change
-7. leave the barbershop and go back to making money.
+7. leave the barbershop and go back to making money
 
 
 
