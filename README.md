@@ -1,5 +1,5 @@
 # IPC
-#### Sleeping barber solution
+### Sleeping barber solution
 The task is a classic example of [sleeping barber problem](https://en.wikipedia.org/wiki/Sleeping_barber_problem) with extra steps, that include:
 1. The waiting room (implemented using message queue).
 2. The client's settlement with the barber:
@@ -28,4 +28,9 @@ The task is a classic example of [sleeping barber problem](https://en.wikipedia.
 7. leave the barbershop and go back to making money
 
 
+# Threads
+### Port simulation 
+Ships call at a port, moor there for some time and then leave. Each ship, both to enter and leave the port, must be provided with a certain number of tugboats, depending on its weight. There must also be room for him in the dock. Both the number of dock spaces and the number of tugs are fixed and limited.
+
+The task is to synchronize the ships (docks and tugboats are limited)
 
