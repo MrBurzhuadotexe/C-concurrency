@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <unistd.h>
 
-#define DOCKS 3
+#define DOCKS 4
 #define TUGS 12
 
 
