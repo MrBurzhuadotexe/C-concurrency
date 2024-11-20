@@ -10,7 +10,7 @@
 #include <sys/wait.h>
 
 
-#define KEY 45309  
+#define KEY 45309
 #define B 2 //number of barbers
 #define WR 1 //number of seats in the waiting room
 #define N 1 //number of barber chairs
